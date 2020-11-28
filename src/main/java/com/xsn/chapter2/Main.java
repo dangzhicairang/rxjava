@@ -20,7 +20,7 @@ public class Main {
 
         // defer();
 
-        // interval();
+        interval();
 
         // timer();
 
@@ -28,7 +28,7 @@ public class Main {
 
         // repeatWhen();
 
-        repeatUtil();
+        // repeatUtil();
     }
 
     static void create() {
